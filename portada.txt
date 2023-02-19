@@ -3,4 +3,4 @@ integrantes:
 	Ronald Heriberto Abarca Rivas
 
 link repositorio github:
-	
+	https://github.com/ronald-abarca/parcial1
