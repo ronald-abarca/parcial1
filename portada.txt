@@ -1,0 +1,6 @@
+parcial1 ETPS3
+integrantes:
+	Ronald Heriberto Abarca Rivas
+
+link repositorio github:
+	
